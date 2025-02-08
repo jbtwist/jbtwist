@@ -42,8 +42,8 @@
 
 #### 📚 Currently Learning
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![API Development](https://img.shields.io/badge/-API%20Development-009688?style=flat&logo=api&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
 ---
 
